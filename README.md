@@ -129,3 +129,6 @@ Validar el horario para la solicitud
 " El recuadro azul que dice Reservar no debe mostrar información,ya que es la misma dirección de inicio y fin del viaje y la aplicación no saca costos en distancias iguales a 0.
 
 
+APRENDIZAJE: Con este proyecto reforce mis conocimientos en la creación de casos de prueba y pude seguir practicando y mejorando mis técnicas para la creación de las mismas.
+
+
