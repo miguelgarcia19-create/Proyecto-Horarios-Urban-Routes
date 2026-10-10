@@ -1,4 +1,4 @@
-NOMBRE DEL PROYECTO: Projecto Horarios Urban Routes
+NOMBRE DEL PROYECTO: Proyecto Horarios Urban Routes
 
 OBJETIVO DEL PROYECTO: Este proyecto se realizo para validar que dentro de la página web Urban Routes se respeten tanto los horarios como los costos que cubren dichos horarios, las pruebas realizadas fueron enfocadas en como se comporta la página al momento de pedir un taxi en cierto rango de horas y validar que los costos por distancia fueran los correctos.
 
